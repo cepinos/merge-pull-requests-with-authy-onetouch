@@ -1,6 +1,8 @@
 Merge Pull Request using Authy OneTouch
 ==============
 
+Removing typos
+
 Merge GitHub pull request using Authy OneTouch
 
 # Install
